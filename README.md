@@ -1,4 +1,10 @@
-👋I'm Abirham a Data Science graduate student at The George Washington University. My expertise lies in Machine Learning, Advanced Data Analytics, Data Visualization, Natural Language Processing, and Deep Learning. I’m passionate about leveraging data to solve complex problems, uncover meaningful insights, and drive impactful decisions from them.
+👋 Hi, I'm Abirham!  
+
+I'm a **Data Science graduate student** at **The George Washington University**, specializing in:  
+🚀 **Machine Learning** | 📊 **Advanced Data Analytics** | 🎨 **Data Visualization** | 🗣️ **Natural Language Processing** | 🤖 **Deep Learning**  
+
+I'm passionate about **leveraging data** to solve complex problems, uncover meaningful insights, and drive impactful decisions. Let's connect and explore the power of data together!  
+
 ## 🔧 My Skills 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
