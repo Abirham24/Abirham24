@@ -1,7 +1,7 @@
 👋 Hi, I'm Abirham!  
 
 I'm a **Data Science graduate student** at **The George Washington University**, specializing in:  
-🚀 **Machine Learning** | 📊 **Advanced Data Analytics** | 🎨 **Data Visualization** | 🗣️ **Natural Language Processing** | 🤖 **Deep Learning**  
+🚀 **Machine Learning** | 📊 **Advanced Data Analytics** | 🎨 **Data Visualization** | 🗣️ **Natural Language Processing (NLP) & Sentiment Analysis** | 🤖 **Deep Learning**  
 
 I'm passionate about **leveraging data** to solve complex problems, uncover meaningful insights, and drive impactful decisions. Let's connect and explore the power of data together!  
 
@@ -44,10 +44,20 @@ I'm passionate about **leveraging data** to solve complex problems, uncover mean
 
 ## 🌱 Currently Learning  
 
-- **🤖 Machine Learning & Natural Language Processing (NLP)**  
+- **🤖 Machine Learning &**  
 - **📐 Algorithms for Data Science**  
 
 ---
+## 📚 Research Publications  
+
+- **[Amharic Hate Speech Detection](https://doi.org/10.1007/978-981-99-9811-1_12)** – Published in *Springer*  
+  - Focuses on detecting hate speech in Amharic using Natural Language Processing (NLP).  
+
+- **[Fake News Identification](https://journal.esrgroups.org/jes/article/view/4843)** – Published in *Journal of Engineering Science*  
+  - Explores machine learning techniques for identifying and classifying fake news.  
+
+🔎 Feel free to check out my research and connect with me to discuss ideas! 🚀  
+
 
 📫 Let's connect! You can reach me via [LinkedIn](https://www.linkedin.com/in/abirham-ayenew-10805120b/) or explore my work here on [GitHub](https://github.com/Abirham24).
 
