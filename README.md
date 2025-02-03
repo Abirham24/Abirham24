@@ -1,9 +1,23 @@
 👋I'm Abirham a Data Science graduate student at The George Washington University. My expertise lies in Machine Learning, Advanced Data Analytics, Data Visualization, Natural Language Processing, and Deep Learning. I’m passionate about leveraging data to solve complex problems, uncover meaningful insights, and drive impactful decisions from them.
 ## 🔧 My Skills 
 
-- 🐍 **Python** | 💻 **R** | 📊 **Data Visualization**  
-- ⚡ **Apache Spark** | 🔲 **Hadoop** | 🗄️ **SQL**  
-- 🧠 **Neo4j** | 🌱 **MongoDB**
+ 🐍 **Python** | 💻 **R** | 📊 **Data Visualization**  
+  ⚡ **Apache Spark** | 🔲 **Hadoop** | 🗄️ **SQL**  
+  🧠 **Neo4j** | 🌱 **MongoDB**
+
+  ## 🔧 Skills & Technologies
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/-Data_Visualization-FF6F61?style=flat-square&logo=chart.js&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=hadoop&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-1572B6?style=flat-square&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-01C76B?style=flat-square&logo=neo4j&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+
+  
 
 🔍 My interests include:
 
