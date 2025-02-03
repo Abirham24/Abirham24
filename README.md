@@ -19,10 +19,10 @@ I'm passionate about **leveraging data** to solve complex problems, uncover mean
   
 ## 🔍 My Interests  
 
-- **📊 Data Science**: Predictive modeling, machine learning, and statistical analysis.  
-- **🗄️ SQL & Databases**: Crafting efficient queries, database management, and optimization.  
-- **📈 Data Visualization**: Creating compelling visual stories with Tableau, Power BI, and Seaborn.  
-- **☁️ Cloud Computing**: Working with platforms like AWS and Azure.  
+ **📊 Data Science**: Predictive modeling, machine learning, and statistical analysis.  
+ **🗄️ SQL & Databases**: Crafting efficient queries, database management, and optimization.  
+ **📈 Data Visualization**: Creating compelling visual stories with Tableau, Power BI, and Seaborn.  
+ **☁️ Cloud Computing**: Working with platforms like AWS and Azure.  
 
 ---
 
