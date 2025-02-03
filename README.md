@@ -44,8 +44,8 @@ I'm passionate about **leveraging data** to solve complex problems, uncover mean
 
 ## 🌱 Currently Learning  
 
-- **🤖 Machine Learning &**  
-- **📐 Algorithms for Data Science**  
+ **🤖 Machine Learning &**  
+ **📐 Algorithms for Data Science**  
 
 ---
 ## 📚 Research Publications  
