@@ -64,8 +64,8 @@ with Docker. Built during the Build Fellowship (Open Avenue Foundation).
 
 ### Connect
 
-- LinkedIn: [abirham-ayenew](https://www.linkedin.com/in/abirham-pro/))
-- GitHub: [Abirham24](https://github.com/Abirham24)
+- LinkedIn:(https://www.linkedin.com/in/abirham-pro/)
+- GitHub: (https://github.com/Abirham24)
 
 ---
 
