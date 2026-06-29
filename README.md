@@ -62,7 +62,7 @@ with Docker. Built during the Build Fellowship (Open Avenue Foundation).
 
 ---
 
-### Connect
+### Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/abirham-pro/)
 - [GitHub](https://github.com/Abirham24)
 
