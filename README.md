@@ -1,63 +1,71 @@
-👋 Hi, I'm Abirham!  
+<h1>Hi, I'm Abirham 👋</h1>
 
-I'm a **Data Science graduate student** at **The George Washington University**, specializing in:  
-🚀 **Machine Learning** | 📊 **Advanced Data Analytics** | 🎨 **Data Visualization** | 🗣️ **Natural Language Processing (NLP) & Sentiment Analysis** | 🤖 **Deep Learning**  
+Data Scientist with an M.S. in Data Science and a background in Computer Engineering,
+based in Washington, DC. I work across the full data workflow: cleaning and exploring
+messy data, building and evaluating machine learning models, and turning results into
+clear, usable outcomes. My work spans data science, analytics, and applied machine
+learning, with two published research papers in NLP.
 
-I'm passionate about **leveraging data** to solve complex problems, uncover meaningful insights, and drive impactful decisions. Let's connect and explore the power of data together!  
-
-## 🔧 My Skills 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/-Data_Visualization-FF6F61?style=flat-square&logo=chart.js&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=hadoop&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-1572B6?style=flat-square&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-01C76B?style=flat-square&logo=neo4j&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-
-  
-## 🔍 My Interests  
-
- **📊 Data Science**: Predictive modeling, machine learning, and statistical analysis.  
- **🗄️ SQL & Databases**: Crafting efficient queries, database management, and optimization.  
- **📈 Data Visualization**: Creating compelling visual stories with Tableau, Power BI, and Seaborn.  
- **☁️ Cloud Computing**: Working with platforms like AWS and Azure.  
+**Open to Data Scientist, Data Analyst, and Machine Learning roles.**
 
 ---
 
-## 🚀 Projects on My GitHub  
+### 🛠️ Tech Stack
 
-### 🔹 **SQL Projects**  
-- **Road Network Analysis Using Neo4j**  
-- **Comprehensive MongoDB Faker Data Generation & Manipulation**  
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-### 🔹 **Data Science Projects**  
-- **Exploratory Data Analysis (EDA)**  
-- **Abalone Age Prediction**  
-- **Mental Health Prediction**  
+**Machine Learning & AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-5C2D91?style=flat)
+![LLMs & RAG](https://img.shields.io/badge/LLMs%20%26%20RAG-412991?style=flat)
 
-### 🔹 **Python & R Projects**  
-- Leveraging **Pandas**, **Scikit-learn**, **TensorFlow**, and **PyTorch** for data manipulation and machine learning.  
+**Data Analysis & Visualization**
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+**Data & Tools**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning  
+### 🚀 Featured Projects
 
- **🤖 Machine Learning &**  
- **📐 Algorithms for Data Science**  
+**[Job Application Email Agent](https://github.com/Abirham24/job-application-email-agent)**
+An AI agent that reads Gmail (read-only), classifies job-application emails with a
+locally-run language model, and automatically updates a Google Sheets tracker. The model
+runs on-device, so email content never leaves the machine.
+`Python · Ollama / Llama 3.2 · Gmail API · Google Sheets API`
+
+**[Financial News Sentiment Analysis](https://github.com/Abirham24/Financial-News-Sentiment-Analysis)**
+Benchmarks classical machine learning against transformer models on financial news
+headlines, with a FinBERT classifier and a Streamlit demo.
+`Python · PyTorch · Hugging Face · FinBERT · Streamlit`
+
+**[AI-Powered Image Retrieval](https://github.com/Abirham24/AI_powered_image_retreival)**
+Content-based image retrieval using ResNet features and a vector database, containerized
+with Docker. Built during the Build Fellowship (Open Avenue Foundation).
+`Python · ResNet · Vector DB · Docker`
 
 ---
-## 📚 Research Publications  
 
-- **[Amharic Hate Speech Detection](https://doi.org/10.1007/978-981-99-9811-1_12)** – Published in *Springer*  
-  - Focuses on detecting hate speech in Amharic using Natural Language Processing (NLP).  
+### 📚 Research Publications
 
-- **[Fake News Identification](https://journal.esrgroups.org/jes/article/view/4843)** – Published in *Journal of Engineering Science*  
-  - Explores machine learning techniques for identifying and classifying fake news.  
+- **[Amharic Hate Speech Detection](https://doi.org/10.1007/978-981-99-9811-1_12)** — published in Springer.
+- **[Fake News Identification](https://journal.esrgroups.org/jes/article/view/4843)** — published in the Journal of Engineering Science.
 
-🔎 Feel free to check out my research and connect with me to discuss ideas! 🚀  
+---
 
+### 📫 Connect
 
-📫 Let's connect! You can reach me via [LinkedIn](https://www.linkedin.com/in/abirham-ayenew-10805120b/) or explore my work here on [GitHub](https://github.com/Abirham24).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abirham-ayenew-10805120b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abirham24)
 
