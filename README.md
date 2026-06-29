@@ -64,9 +64,8 @@ with Docker. Built during the Build Fellowship (Open Avenue Foundation).
 
 ### Connect
 
-- LinkedIn: [abirham-ayenew](https://www.linkedin.com/in/abirham-ayenew-10805120b)
+- LinkedIn: [abirham-ayenew](https://www.linkedin.com/in/abirham-pro/))
 - GitHub: [Abirham24](https://github.com/Abirham24)
-- **[Fake News Identification](https://journal.esrgroups.org/jes/article/view/4843)** — published in the Journal of Engineering Science.
 
 ---
 
