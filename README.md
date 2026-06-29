@@ -12,25 +12,25 @@ learning, with two published research papers in NLP.
 
 ### Tech Stack
 
-**Programming Languages**
+**Programming Languages:**
 Python, SQL, R, JavaScript
 
-**ML & Data Libraries / Frameworks**
+**ML & Data Libraries / Frameworks:**
 PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, XGBoost, pandas, NumPy
 
-**Visualization Tools**
+**Visualization Tools:**
 Tableau, Power BI, Matplotlib, Plotly, Streamlit
 
-**Databases**
+**Databases:**
 PostgreSQL, MySQL, MongoDB, Neo4j, FAISS (vector database)
 
-**Cloud, Infrastructure & DevOps**
+**Cloud, Infrastructure & DevOps:**
 AWS (EC2, S3, Lambda, SageMaker), Docker, Apache Spark, Git, GitHub Actions, Linux
 
-**Web Development**
+**Web Development:**
 React, Node.js, Express.js, REST APIs, HTML, CSS
 
-**Techniques & Methods**
+**Techniques & Methods:**
 Machine learning, deep learning, NLP, LLMs & RAG, computer vision, regression, classification, ensemble methods (Random Forest, SVM), exploratory data analysis, statistical analysis, ETL & data pipelines, feature engineering
 
 ---
