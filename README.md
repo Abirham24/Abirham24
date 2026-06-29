@@ -56,10 +56,9 @@ Content-based image retrieval using ResNet features and a vector database, conta
 with Docker. Built during the Build Fellowship (Open Avenue Foundation).
 `Python · ResNet · Vector DB · Docker`
 
-**[Drug Safety Signal Pipeline](https://github.com/Abirham24/drug-safety-pipeline)** 
+**[Drug Safety Signal Pipeline](https://github.com/Abirham24/drug-safety-pipeline)**
 End-to-end data pipeline that ingests FDA adverse-event data and surfaces drug safety signals using disproportionality (PRR) analysis. Ingestion, dbt transforms, tests, orchestration, and Docker.
 `Python · DuckDB · dbt · Prefect · Docker`
----
 
 ### Research Publications
 
