@@ -36,6 +36,9 @@ Machine learning, deep learning, NLP, LLMs & RAG, computer vision, regression, c
 ---
 
 ### Featured Projects
+**[IT Support AI Assistant & KB Gap Analysis](https://github.com/Abirham24/it-support-ai-assistant)**
+RAG assistant that resolves IT issues from documentation, escalates unresolved ones, and finds gaps in the knowledge base. Built on ~68k tickets with Azure OpenAI.
+`Python · Azure OpenAI · RAG · Semantic Search · Clustering`
 
 **[Job Application Email Agent](https://github.com/Abirham24/job-application-email-agent)**
 An AI agent that reads Gmail (read-only), classifies job-application emails with a
