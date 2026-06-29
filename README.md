@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abirham 👋</h1>
+<h1>Hi, I'm Abirham </h1>
 
 Data Scientist with an M.S. in Data Science and a background in Computer Engineering,
 based in Washington, DC. I work across the full data workflow: cleaning and exploring
