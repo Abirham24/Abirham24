@@ -57,18 +57,12 @@ with Docker. Built during the Build Fellowship (Open Avenue Foundation).
 
 ### Research Publications
 
-- **[Amharic Hate Speech Detection](https://doi.org/10.1007/978-981-99-9811-1_12)** — published in Springer.
-- **[Fake News Identification](https://journal.esrgroups.org/jes/article/view/4843)** — published in the Journal of Engineering Science.
+- **[Amharic Hate Speech Detection](https://doi.org/10.1007/978-981-99-9811-1_12)** -published in Springer.
+- **[Fake News Identification](https://journal.esrgroups.org/jes/article/view/4843)** -published in the Journal of Engineering Science.
 
 ---
 
 ### Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/abirham-pro/)
-- [GitHub](https://github.com/Abirham24)
-
----
-
-### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abirham-ayenew-10805120b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Abirham24)
