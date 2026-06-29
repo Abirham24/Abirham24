@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abirham </h1>
+# Hi, I'm Abirham
 
 Data Scientist with an M.S. in Data Science and a background in Computer Engineering,
 based in Washington, DC. I work across the full data workflow: cleaning and exploring
@@ -10,34 +10,32 @@ learning, with two published research papers in NLP.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+**Programming Languages**
+Python, SQL, R, JavaScript
 
-**Machine Learning & AI**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-5C2D91?style=flat)
-![LLMs & RAG](https://img.shields.io/badge/LLMs%20%26%20RAG-412991?style=flat)
+**ML & Data Libraries / Frameworks**
+PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, XGBoost, pandas, NumPy
 
-**Data Analysis & Visualization**
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+**Visualization Tools**
+Tableau, Power BI, Matplotlib, Plotly, Streamlit
 
-**Data & Tools**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Databases**
+PostgreSQL, MySQL, MongoDB, Neo4j, FAISS (vector database)
+
+**Cloud, Infrastructure & DevOps**
+AWS (EC2, S3, Lambda, SageMaker), Docker, Apache Spark, Git, GitHub Actions, Linux
+
+**Web Development**
+React, Node.js, Express.js, REST APIs, HTML, CSS
+
+**Techniques & Methods**
+Machine learning, deep learning, NLP, LLMs & RAG, computer vision, regression, classification, ensemble methods (Random Forest, SVM), exploratory data analysis, statistical analysis, ETL & data pipelines, feature engineering
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **[Job Application Email Agent](https://github.com/Abirham24/job-application-email-agent)**
 An AI agent that reads Gmail (read-only), classifies job-application emails with a
@@ -57,9 +55,17 @@ with Docker. Built during the Build Fellowship (Open Avenue Foundation).
 
 ---
 
-### 📚 Research Publications
+### Research Publications
 
 - **[Amharic Hate Speech Detection](https://doi.org/10.1007/978-981-99-9811-1_12)** — published in Springer.
+- **[Fake News Identification](https://journal.esrgroups.org/jes/article/view/4843)** — published in the Journal of Engineering Science.
+
+---
+
+### Connect
+
+- LinkedIn: [abirham-ayenew](https://www.linkedin.com/in/abirham-ayenew-10805120b)
+- GitHub: [Abirham24](https://github.com/Abirham24)
 - **[Fake News Identification](https://journal.esrgroups.org/jes/article/view/4843)** — published in the Journal of Engineering Science.
 
 ---
